@@ -1,4 +1,4 @@
-.PHONY: emulate
+.PHONY: emulate clean
 
 BUILD := build
 ESP := $(BUILD)/esp
